@@ -1,6 +1,6 @@
 import os
 import wave
-import pyaudio
+#import pyaudio
 import numpy as np
 from scipy.io import wavfile
 from faster_whisper import WhisperModel
